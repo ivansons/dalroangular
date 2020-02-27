@@ -1,0 +1,5474 @@
+{
+  "works": [
+    {
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757788",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1369,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001368",
+        "rro_work_cd": 1369,
+        "work_title": "NON STARTER",
+        "contributors": [
+          {
+            "name": "HULME Doris",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/02/16 00:51:11",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DALRO",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-02-16T00:51:11.000Z"
+        ]
+      }
+    },
+    {
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757821",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1402,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001401",
+        "rro_work_cd": 1402,
+        "work_title": "ACHIEVING EMPLOYMENT EQUITY: A GUIDE TO EFFECTIVE STRATEGIES",
+        "contributors": [
+          {
+            "name": "ROBERTSHAW David",
+            "role": "author"
+          },
+          {
+            "name": "THOMAS Adéle",
+            "role": "author"
+          }
+        ],
+        "publisher": "KNOWLEDGE RESOURCES",
+        "edition": "",
+        "isbn_cd": "9781874997238",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:04",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "KNOWLEDGE RESOURCES",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:04.000Z"
+        ]
+      }
+    },
+    {
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757830",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1411,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001410",
+        "rro_work_cd": 1411,
+        "work_title": "LIDA EN DIE LIEDJIESKRYWER",
+        "contributors": [
+          {
+            "name": "MARAIS S. Le Roux",
+            "role": "author"
+          },
+          {
+            "name": "RETIEF Joan",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "SHEET MUSIC",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:04",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "E.J. MARAIS, FEDERASIE VAN AFRIKAANSE KULTUURVERENIGI, JOAN RETIEF",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:04.000Z"
+        ]
+      }
+    },
+    {
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757853",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1434,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001433",
+        "rro_work_cd": 1434,
+        "work_title": "PETTE TE KOOP",
+        "contributors": [
+          {
+            "name": "SLOBODKINA Esphyr",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/02/16 00:51:11",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DALRO",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-02-16T00:51:11.000Z"
+        ]
+      }
+    },
+    {
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757857",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1438,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001437",
+        "rro_work_cd": 1438,
+        "work_title": "KAMBROKIND",
+        "contributors": [
+          {
+            "name": "VENTER F.A.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:05",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "ELIZABETH S. GRUNDLING, HERMANUS CARL VENTER, NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:05.000Z"
+        ]
+      }
+    },
+    {
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757861",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1442,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001441",
+        "rro_work_cd": 1442,
+        "work_title": "MEETSNOERE",
+        "contributors": [
+          {
+            "name": "BEUKES Dricky",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:05",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DRICKY BEUKES, NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:05.000Z"
+        ]
+      }
+    },
+    {
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757883",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1464,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001463",
+        "rro_work_cd": 1464,
+        "work_title": "ALBINO",
+        "contributors": [
+          {
+            "name": "COPE Jack",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:54:26",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "MICHAEL COPE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:54:26.000Z"
+        ]
+      }
+    },
+    {
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757907",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1488,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001487",
+        "rro_work_cd": 1488,
+        "work_title": "POLITICS OF PROPERTY RIGHTS: POLTICAL INSTABILITY, CREDIBLE",
+        "contributors": [
+          {
+            "name": "HABER Stephen H.",
+            "role": "author"
+          },
+          {
+            "name": "MAURER Noel",
+            "role": "author"
+          },
+          {
+            "name": "RAZO Armando",
+            "role": "author"
+          }
+        ],
+        "publisher": "CAMBRIDGE UNIVERSITY PRESS",
+        "edition": "",
+        "isbn_cd": "9780521820677",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:06",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "COPYRIGHT LICENSING AGENCY LIMITED, THE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:06.000Z"
+        ]
+      }
+    },
+    {
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757914",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1495,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001494",
+        "rro_work_cd": 1495,
+        "work_title": "COMPARING THE FIBRE FLOCCULATION BEHAVIOR OF SEVERAL WET END",
+        "contributors": [
+          {
+            "name": "HUBER P. (et al)",
+            "role": "author"
+          }
+        ],
+        "publisher": "TAPPI",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:06",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 122129,
+        "parent_rro_work_cd": 122129,
+        "parent_work_title": "TAPPI JOURNAL",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:06.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757917",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1498,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001497",
+        "rro_work_cd": 1498,
+        "work_title": "DEAF/HEARING CULTURAL IDENTITY PARADIGMS: MODIFICATION OF TH",
+        "contributors": [
+          {
+            "name": "LEIGH Irene W. (et al)",
+            "role": "author"
+          }
+        ],
+        "publisher": "OXFORD UNIVERSITY PRESS",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:06",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 124259,
+        "parent_rro_work_cd": 124259,
+        "parent_work_title": "JOURNAL OF DEAF STUDIES AND DEAF EDUCATION",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:06.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757920",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1501,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001500",
+        "rro_work_cd": 1501,
+        "work_title": "SCALING URBAN ENVIRONMENTAL CHALLENGES: FROM LOCAL TO GLOBAL",
+        "contributors": [
+          {
+            "name": "MARCOTULLIO Peter J.(Ed.)",
+            "role": "author"
+          },
+          {
+            "name": "McGRANAHAN Gordon (Ed.)",
+            "role": "author"
+          }
+        ],
+        "publisher": "EARTHSCAN",
+        "edition": "",
+        "isbn_cd": "9781844073238",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:06",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "TAYLOR & FRANCIS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:06.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757924",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1505,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001504",
+        "rro_work_cd": 1505,
+        "work_title": "DROOMSKERWE",
+        "contributors": [
+          {
+            "name": "ENGELBRECHT Herman",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:06",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "HERMAN ENGELBRECHT, TYDSKRIF VIR LETTERKUNDE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:06.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757925",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1506,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001505",
+        "rro_work_cd": 1506,
+        "work_title": "LEVIET EN VREEMDELING",
+        "contributors": [
+          {
+            "name": "VILLIERS I.L. DE",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:06",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "I.L. DE VILLIERS, NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:06.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757932",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1513,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001512",
+        "rro_work_cd": 1513,
+        "work_title": "AANVANGE",
+        "contributors": [
+          {
+            "name": "TOERIEN Barend J.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:07",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "BAREND J. TOERIEN, NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:07.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757940",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1521,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001520",
+        "rro_work_cd": 1521,
+        "work_title": "PALINODES",
+        "contributors": [
+          {
+            "name": "HAMBIDGE Joan",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:07",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "JOAN HAMBIDGE, PEARSON HOLDINGS SOUTHERN AFRICA (PTY) LTD",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:07.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757957",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1538,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001537",
+        "rro_work_cd": 1538,
+        "work_title": "HOE BLINDEMOL BYNA DIE LOTERY GEWEN HET",
+        "contributors": [
+          {
+            "name": "BRACHARZ Kurt",
+            "role": "author"
+          },
+          {
+            "name": "KÜHNE W.O.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:07",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:07.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757960",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1541,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001540",
+        "rro_work_cd": 1541,
+        "work_title": "CANNIBAL'S BIRD THE",
+        "contributors": [
+          {
+            "name": "BROWNLEE Frank",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:07",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NATIONAL ENGLISH LITERARY MUSEUM",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:07.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757964",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1545,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001544",
+        "rro_work_cd": 1545,
+        "work_title": "POWER",
+        "contributors": [
+          {
+            "name": "COPE Jack",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:54:58",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "MICHAEL COPE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:54:58.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757982",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1563,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001562",
+        "rro_work_cd": 1563,
+        "work_title": "QUARRY THE",
+        "contributors": [
+          {
+            "name": "PATON Alan",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:08",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NEW AFRICA BOOKS (PTY) LIMITED",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:08.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757983",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1564,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001563",
+        "rro_work_cd": 1564,
+        "work_title": "ONE OF THREE",
+        "contributors": [
+          {
+            "name": "ABRAHAMS Peter",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/02/16 00:51:11",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DALRO",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-02-16T00:51:11.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757984",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1565,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001564",
+        "rro_work_cd": 1565,
+        "work_title": "THAT OLE HARE",
+        "contributors": [
+          {
+            "name": "STERN Rhona",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:08",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NEW HOLLAND PUBLISHING (SOUTH AFRICA)",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:08.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757986",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1567,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001566",
+        "rro_work_cd": 1567,
+        "work_title": "CADDY",
+        "contributors": [
+          {
+            "name": "POWER Michael",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:08",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NEW HOLLAND PUBLISHING (SOUTH AFRICA)",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:08.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757992",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1573,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001572",
+        "rro_work_cd": 1573,
+        "work_title": "VENGEANCE IS MINE",
+        "contributors": [
+          {
+            "name": "VILLIERS Cornelia DE",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:08",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NEW HOLLAND PUBLISHING (SOUTH AFRICA)",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:08.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757994",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1575,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001574",
+        "rro_work_cd": 1575,
+        "work_title": "TANNIE",
+        "contributors": [
+          {
+            "name": "ROSE Brian",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:55:10",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "BRIAN ROSE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:55:10.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757996",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1577,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001576",
+        "rro_work_cd": 1577,
+        "work_title": "ON THE SONNETS OF SHAKESPEARE",
+        "contributors": [
+          {
+            "name": "HALL Ronald",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:55:11",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "RONALD HALL",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:55:11.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758001",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1582,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001581",
+        "rro_work_cd": 1582,
+        "work_title": "FOUR CANDLES FOR SIMON",
+        "contributors": [
+          {
+            "name": "BELL Anthea",
+            "role": "author"
+          },
+          {
+            "name": "SCHEIDL Gerda Marie",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:08",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NORD-SÜD VERLAG",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:08.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758010",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1591,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001590",
+        "rro_work_cd": 1591,
+        "work_title": "UITSETTINGS ONDER DIE SUID-AFRIKAANSE GRONDWET: DIE VERHOUDI",
+        "contributors": [
+          {
+            "name": "MOSTERT H.",
+            "role": "author"
+          },
+          {
+            "name": "PIENAAR J.M.",
+            "role": "author"
+          }
+        ],
+        "publisher": "JUTA & KIE",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:08",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 121001,
+        "parent_rro_work_cd": 121001,
+        "parent_work_title": "TYDSKRIF VIR DIE SUID-AFRIKAANSE REG/JOURNAL OF SOUTH AFRICAN LAW",
+        "rightsholder": "JUTA AND COMPANY LIMITED",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:08.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757399",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 980,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000979",
+        "rro_work_cd": 980,
+        "work_title": "HEUNING UIT DIE SWARTHAAK",
+        "contributors": [
+          {
+            "name": "RIEKERT Donald W.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:54",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:54.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757401",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 982,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000981",
+        "rro_work_cd": 982,
+        "work_title": "RONDOM 'N BOORVUUR",
+        "contributors": [
+          {
+            "name": "ROOYEN Piet VAN",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:54",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS, PIET VAN ROOYEN",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:54.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757404",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 985,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000984",
+        "rro_work_cd": 985,
+        "work_title": "URBAN RECONSTRUCTION IN THE DEVELOPING WORLD: LEARNING THROU",
+        "contributors": [
+          {
+            "name": "FORSTER Clive A. (Ed.)",
+            "role": "author"
+          },
+          {
+            "name": "McCARTHY Jeff J. (Ed.)",
+            "role": "author"
+          },
+          {
+            "name": "ROBINSON Peter (Ed.)",
+            "role": "author"
+          }
+        ],
+        "publisher": "HEINEMANN SA",
+        "edition": "",
+        "isbn_cd": "9780796210364",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:54",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "HEINEMANN PUBLISHERS (PTY) LIMITED",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:54.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757407",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 988,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000987",
+        "rro_work_cd": 988,
+        "work_title": "INDIGENOUS PERSONALITY MEASURES: CHINESE EXAMPLES",
+        "contributors": [
+          {
+            "name": "CHEUNG Fanny M.",
+            "role": "author"
+          },
+          {
+            "name": "LEUNG Kwok",
+            "role": "author"
+          }
+        ],
+        "publisher": "SAGE PUBLICATIONS",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:54",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 118965,
+        "parent_rro_work_cd": 118965,
+        "parent_work_title": "JOURNAL OF CROSS-CULTURAL PSYCHOLOGY",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:54.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757413",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 994,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000993",
+        "rro_work_cd": 994,
+        "work_title": "OF BOYS AND MEN: MASCULINITY AND GENDER IN SOUTHERN AFRICA",
+        "contributors": [
+          {
+            "name": "MORRELL Robert",
+            "role": "author"
+          }
+        ],
+        "publisher": "ROUTLEDGE",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:55",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 121573,
+        "parent_rro_work_cd": 121573,
+        "parent_work_title": "JOURNAL OF SOUTHERN AFRICAN STUDIES",
+        "rightsholder": "TAYLOR & FRANCIS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:55.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757422",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1003,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001002",
+        "rro_work_cd": 1003,
+        "work_title": "BY DIE OOG VAN DIE FONTEIN",
+        "contributors": [
+          {
+            "name": "LINDE Freda",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:55",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:55.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757424",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1005,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001004",
+        "rro_work_cd": 1005,
+        "work_title": "MUGGIE MAAR MAN",
+        "contributors": [
+          {
+            "name": "WYK M.M. VAN",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:55",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "PEARSON HOLDINGS SOUTHERN AFRICA (PTY) LTD",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:55.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757453",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1034,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001033",
+        "rro_work_cd": 1034,
+        "work_title": "POST-APARTHEID CONSTITUTIONS, THE",
+        "contributors": [
+          {
+            "name": "ANDREWS Penelope (Ed.)",
+            "role": "author"
+          },
+          {
+            "name": "ELLMANN Stephen (Ed.)",
+            "role": "author"
+          }
+        ],
+        "publisher": "WITWATERSRAND UNIVERSITY PRESS",
+        "edition": "",
+        "isbn_cd": "9781868143450",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:56",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "WITWATERSRAND UNIVERSITY PRESS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:56.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757464",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1045,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001044",
+        "rro_work_cd": 1045,
+        "work_title": "VELDSLAG",
+        "contributors": [
+          {
+            "name": "SCHOEMAN Karel",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:56",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:56.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757470",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1051,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001050",
+        "rro_work_cd": 1051,
+        "work_title": "SALIE WORD 'N TROETELDIER",
+        "contributors": [
+          {
+            "name": "PIETERSE Rian",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:56",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "PEARSON HOLDINGS SOUTHERN AFRICA (PTY) LTD",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:56.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757475",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1056,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001055",
+        "rro_work_cd": 1056,
+        "work_title": "DANIE HYMAN-KOMPOSISIES",
+        "contributors": [
+          {
+            "name": "HYMAN Danie",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:51:41",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DANIE HYMAN",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:51:41.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757477",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1058,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001057",
+        "rro_work_cd": 1058,
+        "work_title": "ARNOLD VAN WYK-KOMPOSISIES",
+        "contributors": [
+          {
+            "name": "VAN WYK Arnold",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "SHEET MUSIC",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:51:42",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "J.W. MAY",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:51:42.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757479",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1060,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001059",
+        "rro_work_cd": 1060,
+        "work_title": "GUURT VAN DER TAS-KOMPOSISIES",
+        "contributors": [
+          {
+            "name": "VAN DER TAS Guurt",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "SHEET MUSIC",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/02/16 00:51:11",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DALRO",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-02-16T00:51:11.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757485",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1066,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001065",
+        "rro_work_cd": 1066,
+        "work_title": "S. LE ROUX MARAIS-KOMPOSISIES",
+        "contributors": [
+          {
+            "name": "MARAIS S. Le Roux",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "SHEET MUSIC",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:51:45",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "E.J. MARAIS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:51:45.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757487",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1068,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001067",
+        "rro_work_cd": 1068,
+        "work_title": "ALBRECHT HOLM-KOMPOSISIES",
+        "contributors": [
+          {
+            "name": "HOLM Albrecht",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:51:46",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "ALBRECHT HOLM",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:51:46.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757488",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1069,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001068",
+        "rro_work_cd": 1069,
+        "work_title": "SALOME HENDRIKSE-KOMPOSISIES",
+        "contributors": [
+          {
+            "name": "HENDRIKSE Salóme",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "SHEET MUSIC",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:51:46",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "SALÓME HENDRIKSE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:51:46.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757505",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1086,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001085",
+        "rro_work_cd": 1086,
+        "work_title": "MACBETH",
+        "contributors": [
+          {
+            "name": "EITEMAL",
+            "role": "author"
+          },
+          {
+            "name": "SHAKESPEARE William",
+            "role": "author"
+          }
+        ],
+        "publisher": "HUMAN & ROUSSEAU",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:57",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 129174,
+        "parent_rro_work_cd": 129174,
+        "parent_work_title": "MACBETH",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:57.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757507",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1088,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001087",
+        "rro_work_cd": 1088,
+        "work_title": "GRIMAS",
+        "contributors": [
+          {
+            "name": "SCHOLTZ Merwe",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:57",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "H. VAN DER MERWE SCHOLTZ, NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:57.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757509",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1090,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001089",
+        "rro_work_cd": 1090,
+        "work_title": "PORTRETTE PRIVATE DELE & KANTTEKENINGE",
+        "contributors": [
+          {
+            "name": "BOUWER Stephan",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:57",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:57.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757519",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1100,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001099",
+        "rro_work_cd": 1100,
+        "work_title": "ENVIRONMENTAL IMPACT OF CITIES",
+        "contributors": [
+          {
+            "name": "NEWMAN P.",
+            "role": "author"
+          }
+        ],
+        "publisher": "SAGE PUBLICATIONS",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:57",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 123023,
+        "parent_rro_work_cd": 123023,
+        "parent_work_title": "ENVIRONMENT AND URBANIZATION",
+        "rightsholder": "COPYRIGHT LICENSING AGENCY LIMITED, THE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:57.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757523",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1104,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001103",
+        "rro_work_cd": 1104,
+        "work_title": "EVALUATING HEALTHCARE EDUCATION: ISSUES AND METHODS",
+        "contributors": [
+          {
+            "name": "ATTREE Moira",
+            "role": "author"
+          }
+        ],
+        "publisher": "ELSEVIER LTD",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:57",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 121106,
+        "parent_rro_work_cd": 121106,
+        "parent_work_title": "NURSE EDUCATION TODAY",
+        "rightsholder": "ELSEVIER BV",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:57.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757529",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1110,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001109",
+        "rro_work_cd": 1110,
+        "work_title": "SECURITY COUNCIL'S FIRST FIFTY YEARS",
+        "contributors": [
+          {
+            "name": "KIRGIS Frederick L.",
+            "role": "author"
+          }
+        ],
+        "publisher": "AMERICA SOCIETY OF INT LAW",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:57",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 118145,
+        "parent_rro_work_cd": 118145,
+        "parent_work_title": "AMERICAN JOURNAL OF INTERNATIONAL LAW",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:57.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757545",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1126,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001125",
+        "rro_work_cd": 1126,
+        "work_title": "AVONTUURLAND",
+        "contributors": [
+          {
+            "name": "LOCHNER Helena J.F.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:58",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:58.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757553",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1134,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001133",
+        "rro_work_cd": 1134,
+        "work_title": "WRITTEN IN AN ELEPHANT GRAVEYARD",
+        "contributors": [
+          {
+            "name": "HEWETT Bruce",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/02/16 00:51:11",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DALRO",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-02-16T00:51:11.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757569",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1150,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001149",
+        "rro_work_cd": 1150,
+        "work_title": "DROOMLANDSTORIES",
+        "contributors": [
+          {
+            "name": "JANSEN Amelia",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:58",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:58.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757574",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1155,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001154",
+        "rro_work_cd": 1155,
+        "work_title": "BY AN ANT HEAP",
+        "contributors": [
+          {
+            "name": "HEYWOOD Terrence",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/02/16 00:51:11",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DALRO",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-02-16T00:51:11.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758203",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1784,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001783",
+        "rro_work_cd": 1784,
+        "work_title": "BUFFALO BILL",
+        "contributors": [
+          {
+            "name": "BREYTENBACH Breyten",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:56:33",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "BREYTEN BREYTENBACH",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:56:33.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758215",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1796,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001795",
+        "rro_work_cd": 1796,
+        "work_title": "WILGERBOOMBOGIES",
+        "contributors": [
+          {
+            "name": "TOTIUS",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:13",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:13.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758219",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1800,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001799",
+        "rro_work_cd": 1800,
+        "work_title": "MA RAAK MOBIEL",
+        "contributors": [
+          {
+            "name": "STANDER Blydie",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:13",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "BLYDIE STANDER, NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:13.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758243",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1824,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001823",
+        "rro_work_cd": 1824,
+        "work_title": "RAAI RAAI WAT IS HAAR NAAM",
+        "contributors": [
+          {
+            "name": "MARITZ Empie",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:13",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "PEARSON HOLDINGS SOUTHERN AFRICA (PTY) LTD",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:13.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758249",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1830,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001829",
+        "rro_work_cd": 1830,
+        "work_title": "SCHOOL VIOLENCE IN AN IMPOVERISHED SOUTH AFRICAN COMMUNITY",
+        "contributors": [
+          {
+            "name": "BURNETT Cora",
+            "role": "author"
+          }
+        ],
+        "publisher": "ELSEVIER LTD",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:14",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 120375,
+        "parent_rro_work_cd": 120375,
+        "parent_work_title": "CHILD ABUSE AND NEGLECT",
+        "rightsholder": "ELSEVIER BV",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:14.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758251",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1832,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001831",
+        "rro_work_cd": 1832,
+        "work_title": "PREHOSPITAL PAIN MANAGEMENT",
+        "contributors": [
+          {
+            "name": "ALONSO-SERRA H.M.",
+            "role": "author"
+          },
+          {
+            "name": "WESLEY K.",
+            "role": "author"
+          }
+        ],
+        "publisher": "INFORMA HEALTHCARE",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:14",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 124365,
+        "parent_rro_work_cd": 124365,
+        "parent_work_title": "PREHOSPITAL EMERGENCY CARE",
+        "rightsholder": "COPYRIGHT LICENSING AGENCY LIMITED, THE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:14.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758252",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1833,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001832",
+        "rro_work_cd": 1833,
+        "work_title": "DEPTH OF ANESTHESIA AND BISPECTRAL INDEX MONITORING",
+        "contributors": [
+          {
+            "name": "KISSIN I.",
+            "role": "author"
+          }
+        ],
+        "publisher": "LIPPINCOTT WILLIAMS & WILKINS",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:14",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 118203,
+        "parent_rro_work_cd": 118203,
+        "parent_work_title": "ANESTHESIA AND ANALGESIA",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:14.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758338",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1919,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001918",
+        "rro_work_cd": 1919,
+        "work_title": "TREE OF GOLD",
+        "contributors": [
+          {
+            "name": "LAKER Rosalind",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:16",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "LAURENCE POLLINGER LIMITED",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:16.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758387",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1968,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001967",
+        "rro_work_cd": 1968,
+        "work_title": "RISK ANALYSIS IN CONSTRUCTION: A PARADIGM SHIFT...",
+        "contributors": [
+          {
+            "name": "MAK Stephen W.",
+            "role": "author"
+          }
+        ],
+        "publisher": "ROUTLEDGE",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:17",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 120362,
+        "parent_rro_work_cd": 120362,
+        "parent_work_title": "CONSTRUCTION MANAGEMENT AND ECONOMICS",
+        "rightsholder": "TAYLOR & FRANCIS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:17.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758388",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1969,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001968",
+        "rro_work_cd": 1969,
+        "work_title": "ANOTHER STEP TOWARDS INDIVISIBILITY: IDENTIFYING THE KEY FEA",
+        "contributors": [
+          {
+            "name": "LECKIE Scott",
+            "role": "author"
+          }
+        ],
+        "publisher": "JOHNS HOPKINS UNIVERSITY PRESS",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:17",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 121374,
+        "parent_rro_work_cd": 121374,
+        "parent_work_title": "HUMAN RIGHTS QUARTERLY",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:17.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758389",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1970,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001969",
+        "rro_work_cd": 1970,
+        "work_title": "CAN CHINA INNOVATE?",
+        "contributors": [
+          {
+            "name": "AUTHOR UNKNOWN",
+            "role": "author"
+          }
+        ],
+        "publisher": "ECONOMIST INTELLIGENCE UNIT",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "REPORT",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:17",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 128521,
+        "parent_rro_work_cd": 128521,
+        "parent_work_title": "ECONOMIST INTELLIGENCE UNIT SPECIAL REPORT",
+        "rightsholder": "COPYRIGHT LICENSING AGENCY LIMITED, THE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:17.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758401",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 1982,
+        "company_cd": "DALRO",
+        "ref_cd": "A0001981",
+        "rro_work_cd": 1982,
+        "work_title": "JAN MÔRE EN DIE HAMER",
+        "contributors": [
+          {
+            "name": "ROOYEN Engela VAN",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:17",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:17.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758430",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2011,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002010",
+        "rro_work_cd": 2011,
+        "work_title": "WENSE WORD WAAR",
+        "contributors": [
+          {
+            "name": "DEETLEFS René",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:18",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:18.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758438",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2019,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002018",
+        "rro_work_cd": 2019,
+        "work_title": "MURDER IN THE CATHEDRAL",
+        "contributors": [
+          {
+            "name": "ELIOT T.S.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:18",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "SOCIETY OF AUTHORS, THE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:18.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758474",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2055,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002054",
+        "rro_work_cd": 2055,
+        "work_title": "MY NAASTE SOOS MYSELF",
+        "contributors": [
+          {
+            "name": "KELBER Esperance",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:19",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "N.G. KERK-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:19.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758476",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2057,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002056",
+        "rro_work_cd": 2057,
+        "work_title": "WAAROMS VAN DIE LEWE DIE",
+        "contributors": [
+          {
+            "name": "KELBER Esperance",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:19",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "N.G. KERK-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:19.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758477",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2058,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002057",
+        "rro_work_cd": 2058,
+        "work_title": "POMPORRELKONSERT E.A. SANDVELDSTORIES",
+        "contributors": [
+          {
+            "name": "DEIST Ferdinand E.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:19",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "H. DEIST, VAN SCHAIK PUBLISHERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:19.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758489",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2070,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002069",
+        "rro_work_cd": 2070,
+        "work_title": "SULTAN SE BAD DIE",
+        "contributors": [
+          {
+            "name": "AMBRUS Victor G.",
+            "role": "author"
+          },
+          {
+            "name": "PIENAAR Lydia",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:19",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "KINDERPERS VAN SUID-AFRIKA, DIE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:19.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758490",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2071,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002070",
+        "rro_work_cd": 2071,
+        "work_title": "NUWE BUURMAN DIE",
+        "contributors": [
+          {
+            "name": "CLIEF Sylvia W. VAN",
+            "role": "author"
+          },
+          {
+            "name": "HEIDE Florence Parry",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:19",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "PEARSON HOLDINGS SOUTHERN AFRICA (PTY) LTD",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:19.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758493",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2074,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002073",
+        "rro_work_cd": 2074,
+        "work_title": "CHRIS LAMPRECHT-KOMPOSISIES",
+        "contributors": [
+          {
+            "name": "LAMPRECHT Chris",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:58:30",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "CHRIS LAMPRECHT",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:58:30.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758568",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2149,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002148",
+        "rro_work_cd": 2149,
+        "work_title": "RECKONINGS",
+        "contributors": [
+          {
+            "name": "MACLENNAN Don",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:21",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NEW AFRICA BOOKS (PTY) LIMITED",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:21.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758602",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2183,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002182",
+        "rro_work_cd": 2183,
+        "work_title": "EATING FOSSIL FUELS: OIL, FOOD AND THE COMING CRISIS IN",
+        "contributors": [
+          {
+            "name": "PFEIFFER Dale A.",
+            "role": "author"
+          }
+        ],
+        "publisher": "NEW SOCIETY PLUBISHERS",
+        "edition": "",
+        "isbn_cd": "9780865715653",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:22",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "COPYRIGHT LICENSING AGENCY LIMITED, THE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:22.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758611",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2192,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002191",
+        "rro_work_cd": 2192,
+        "work_title": "ADDER OM AARDE",
+        "contributors": [
+          {
+            "name": "SCHMIDT Casper",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:22",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS, WILHELM SCHMIDT",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:22.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758620",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2201,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002200",
+        "rro_work_cd": 2201,
+        "work_title": "LIEWE PATAT",
+        "contributors": [
+          {
+            "name": "SCHUMANN Annie",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:22",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:22.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758912",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2493,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002492",
+        "rro_work_cd": 2493,
+        "work_title": "ZODIAC (MUSIC)",
+        "contributors": [
+          {
+            "name": "CAMPTON David",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/11/14 06:58:02",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "SAMUEL FRENCH LIMITED",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-11-14T06:58:02.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758921",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2502,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002501",
+        "rro_work_cd": 2502,
+        "work_title": "CLINICAL INSIGHTS INTO THE LIFESTYLE AND DIETARY MANAGEMENT",
+        "contributors": [
+          {
+            "name": "BUYS R.",
+            "role": "author"
+          },
+          {
+            "name": "TILL A.",
+            "role": "author"
+          }
+        ],
+        "publisher": "MEDPHARM PUBLICATIONS",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:29",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 125947,
+        "parent_rro_work_cd": 125947,
+        "parent_work_title": "JOURNAL OF ENDOCRINOLOGY, METABOLISM AND DIABETES OF SOUTH A",
+        "rightsholder": "MEDPHARM PUBLICATIONS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:29.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758923",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2504,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002503",
+        "rro_work_cd": 2504,
+        "work_title": "NKOSI FOR ORGAN 1997",
+        "contributors": [
+          {
+            "name": "TEMMINGH Henk",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "SHEET MUSIC",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 18:01:20",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "HENK TEMMINGH",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T18:01:20.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758927",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2508,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002507",
+        "rro_work_cd": 2508,
+        "work_title": "O.A. KARSTEL-KOMPOSISIES",
+        "contributors": [
+          {
+            "name": "KARSTEL O.A.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/02/16 00:51:11",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DALRO",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-02-16T00:51:11.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "758974",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2555,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002554",
+        "rro_work_cd": 2555,
+        "work_title": "KLEIN LAND VAN DIE LIEFDE",
+        "contributors": [
+          {
+            "name": "BAKKES Margaret",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:31",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "PEARSON HOLDINGS SOUTHERN AFRICA (PTY) LTD",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:31.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759033",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2614,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002613",
+        "rro_work_cd": 2614,
+        "work_title": "SPRINKAANBEAMPTE VAN SLUIS DIE",
+        "contributors": [
+          {
+            "name": "BRUGGEN Jochem VAN",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:32",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "G.J. VAN BRUGGEN, H.D. VAN DER WALT, M.R. VAN STADEN",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:32.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759033",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2614,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002613",
+        "rro_work_cd": 2614,
+        "work_title": "SPRINKAANBEAMPTE VAN SLUIS DIE",
+        "contributors": [
+          {
+            "name": "BRUGGEN Jochem VAN",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:32",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "G.J. VAN BRUGGEN, H.D. VAN DER WALT, M.R. VAN STADEN",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:32.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759056",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2637,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002636",
+        "rro_work_cd": 2637,
+        "work_title": "RETHINKING SEX EQUALITY AS A HUMAN RIGHT",
+        "contributors": [
+          {
+            "name": "LOENEN Titia",
+            "role": "author"
+          }
+        ],
+        "publisher": "SIM (NETHERLANDS)",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:32",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 122818,
+        "parent_rro_work_cd": 122818,
+        "parent_work_title": "NETHERLANDS QUARTERLY OF HUMAN RIGHTS",
+        "rightsholder": "DALRO (EDMS) BEPERK",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:32.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759068",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2649,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002648",
+        "rro_work_cd": 2649,
+        "work_title": "VERLORE VADER DIE",
+        "contributors": [
+          {
+            "name": "STEYN J.C.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:33",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "J.C. STEYN, NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:33.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759091",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2672,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002671",
+        "rro_work_cd": 2672,
+        "work_title": "FACE ON THE TURIN SHROUD THE",
+        "contributors": [
+          {
+            "name": "BRABAZON James",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/02/16 00:51:12",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DALRO",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-02-16T00:51:12.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759094",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2675,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002674",
+        "rro_work_cd": 2675,
+        "work_title": "SC LAW REPORTS",
+        "contributors": [
+          {
+            "name": "AUTHOR UNKNOWN",
+            "role": "author"
+          }
+        ],
+        "publisher": "SCOTLAND",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/02/16 00:51:12",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "DALRO",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-02-16T00:51:12.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759108",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2689,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002688",
+        "rro_work_cd": 2689,
+        "work_title": "WONDERBOOM DIE",
+        "contributors": [
+          {
+            "name": "LÖFGREN Ulf",
+            "role": "author"
+          },
+          {
+            "name": "MERWE Elizabeth VAN DER",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:34",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "VAN SCHAIK PUBLISHERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:34.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759125",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2706,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002705",
+        "rro_work_cd": 2706,
+        "work_title": "NEOLITHIC",
+        "contributors": [
+          {
+            "name": "MCCARTER Susan F.",
+            "role": "author"
+          }
+        ],
+        "publisher": "ROUTLEDGE",
+        "edition": "",
+        "isbn_cd": "9780415364133",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:34",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "COPYRIGHT LICENSING AGENCY LIMITED, THE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:34.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759130",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2711,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002710",
+        "rro_work_cd": 2711,
+        "work_title": "ERROR OF LAW AND MISTAKEN PAYMENTS: A MILESTONE",
+        "contributors": [
+          {
+            "name": "VISSER D.P.",
+            "role": "author"
+          }
+        ],
+        "publisher": "JUTA & CO",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:34",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 121032,
+        "parent_rro_work_cd": 121032,
+        "parent_work_title": "SOUTH AFRICAN LAW JOURNAL",
+        "rightsholder": "JUTA AND COMPANY LIMITED",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:34.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759131",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2712,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002711",
+        "rro_work_cd": 2712,
+        "work_title": "PROPERTY AND MONEY",
+        "contributors": [
+          {
+            "name": "BRETT Michael",
+            "role": "author"
+          }
+        ],
+        "publisher": "ESTATES GAZETTE",
+        "edition": "",
+        "isbn_cd": "9780728201576",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:34",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "COPYRIGHT LICENSING AGENCY LIMITED, THE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:34.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759151",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2732,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002731",
+        "rro_work_cd": 2732,
+        "work_title": "SOFT SEPTEMBER AIR THE",
+        "contributors": [
+          {
+            "name": "HASTINGS Charlotte",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "EXCLUDED",
+        "status_dt": "2016/11/14 06:58:02",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "SAMUEL FRENCH LIMITED",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2016-11-14T06:58:02.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759157",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2738,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002737",
+        "rro_work_cd": 2738,
+        "work_title": "VERSIES VIR JONGMENSIES",
+        "contributors": [
+          {
+            "name": "VISSER Tryna",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:35",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:35.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759163",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2744,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002743",
+        "rro_work_cd": 2744,
+        "work_title": "SOCIAL RESPONSIBILITY OF BUSINESS IS TO INCREASE ITS PROFIT",
+        "contributors": [
+          {
+            "name": "FRIEDMAN Milton",
+            "role": "author"
+          }
+        ],
+        "publisher": "NEW YORK TIMES",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "NEWSPAPER ARTICLE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:35",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 121823,
+        "parent_rro_work_cd": 121823,
+        "parent_work_title": "NEW YORK TIMES",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:35.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759193",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2774,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002773",
+        "rro_work_cd": 2774,
+        "work_title": "MURDER IS MY BUSINESS",
+        "contributors": [
+          {
+            "name": "BENNETT Benjamin",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:35",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NEW HOLLAND PUBLISHING (SOUTH AFRICA)",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:35.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759201",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2782,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002781",
+        "rro_work_cd": 2782,
+        "work_title": "PRAGMATICS AND DISCOURSE: A RESOURCE BOOK FOR STUDENTS",
+        "contributors": [
+          {
+            "name": "CUTTING Joan",
+            "role": "author"
+          }
+        ],
+        "publisher": "ROUTLEDGE",
+        "edition": "",
+        "isbn_cd": "9780415253574",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:36",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "TAYLOR & FRANCIS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:36.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759202",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2783,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002782",
+        "rro_work_cd": 2783,
+        "work_title": "MECHANICAL VENTILATION OF PATIENTS WITH ACUTE RESPIRATORY DI",
+        "contributors": [
+          {
+            "name": "BURNS S.M.",
+            "role": "author"
+          }
+        ],
+        "publisher": "AM ASSOC OF CRIT CARE NURSES",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:36",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 121457,
+        "parent_rro_work_cd": 121457,
+        "parent_work_title": "CRITICAL CARE NURSE",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:36.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "759205",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 2786,
+        "company_cd": "DALRO",
+        "ref_cd": "A0002785",
+        "rro_work_cd": 2786,
+        "work_title": "GETTING THE ATTENTION YOU NEED",
+        "contributors": [
+          {
+            "name": "DAVENPORT Thomas H. (et al)",
+            "role": "author"
+          }
+        ],
+        "publisher": "HARVARD BUSINESS SCHOOL",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:54:36",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 49219,
+        "parent_rro_work_cd": 49219,
+        "parent_work_title": "HARVARD BUSINESS REVIEW",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:54:36.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757199",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 780,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000779",
+        "rro_work_cd": 780,
+        "work_title": "KLEUTERLAND",
+        "contributors": [
+          {
+            "name": "LOCHNER Helena J.F.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:49",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:49.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757202",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 783,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000782",
+        "rro_work_cd": 783,
+        "work_title": "WEAK ANTHROPOCENTRIC INTRINSIC VALUE",
+        "contributors": [
+          {
+            "name": "HARGROVE Eugene C.",
+            "role": "author"
+          }
+        ],
+        "publisher": "HEGELER INSTITUTE",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:49",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 119232,
+        "parent_rro_work_cd": 119232,
+        "parent_work_title": "MONIST, THE",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:49.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757221",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 802,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000801",
+        "rro_work_cd": 802,
+        "work_title": "SIMPLE LOVE A",
+        "contributors": [
+          {
+            "name": "BEROLD Robert",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:49:59",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "ROBERT BEROLD",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:49:59.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757222",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 803,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000802",
+        "rro_work_cd": 803,
+        "work_title": "SKOENMAKER",
+        "contributors": [
+          {
+            "name": "MISHEIKER Betty",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:49:59",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "BETTY MISHEIKER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:49:59.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757235",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 816,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000815",
+        "rro_work_cd": 816,
+        "work_title": "VERSPEELDE LENTE",
+        "contributors": [
+          {
+            "name": "KAMP K.M.",
+            "role": "author"
+          },
+          {
+            "name": "MELLE Jan VAN",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:50",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "K.M. KAMP, NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:50.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757251",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 832,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000831",
+        "rro_work_cd": 832,
+        "work_title": "AIR CLASSIFIER TECHNOLOGY (ACT) IN DRY POWDER INHALATION",
+        "contributors": [
+          {
+            "name": "DE BOER A.H. (et al)",
+            "role": "author"
+          }
+        ],
+        "publisher": "ELSEVIER BV",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:51",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 121918,
+        "parent_rro_work_cd": 121918,
+        "parent_work_title": "INTERNATIONAL JOURNAL OF PHARMACEUTICS",
+        "rightsholder": "ELSEVIER BV",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:51.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757267",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 848,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000847",
+        "rro_work_cd": 848,
+        "work_title": "DIERELAND",
+        "contributors": [
+          {
+            "name": "LOCHNER Helena J.F.",
+            "role": "author"
+          }
+        ],
+        "publisher": "H&R",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:51",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:51.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757275",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 856,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000855",
+        "rro_work_cd": 856,
+        "work_title": "HELPING MY FATHER MAKE A CUPBOARD",
+        "contributors": [
+          {
+            "name": "WYK Christopher VAN",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:51",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "JONATHAN BALL PUBLISHERS (PTY) LIMITED",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:51.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757276",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 857,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000856",
+        "rro_work_cd": 857,
+        "work_title": "HET OLIFANTE ELMBOË?",
+        "contributors": [
+          {
+            "name": "PLESSIS P.G. DU",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:51",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS, P.G. DU PLESSIS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:51.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757277",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 858,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000857",
+        "rro_work_cd": 858,
+        "work_title": "I AND THE BLACK POET",
+        "contributors": [
+          {
+            "name": "EPPEL Jon",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:50:22",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "JOHN EPPEL",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:50:22.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757284",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 865,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000864",
+        "rro_work_cd": 865,
+        "work_title": "MALANDELA'S SECRET",
+        "contributors": [
+          {
+            "name": "BAISSAC Jean C.",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:51",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NEW HOLLAND PUBLISHING (SOUTH AFRICA)",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:51.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757298",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 879,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000878",
+        "rro_work_cd": 879,
+        "work_title": "SAGTE SPRONG, DIE",
+        "contributors": [
+          {
+            "name": "CUSSONS Sheila",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:52",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:52.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757309",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 890,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000889",
+        "rro_work_cd": 890,
+        "work_title": "WOMEN LEANING AWAY",
+        "contributors": [
+          {
+            "name": "KOK Ingrid DE",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "AUTO_VALID",
+        "status_dt": "2015/03/25 17:50:34",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "INGRID FISKE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T17:50:34.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757317",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 898,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000897",
+        "rro_work_cd": 898,
+        "work_title": "MEN'S CLUB, THE",
+        "contributors": [
+          {
+            "name": "MICHAELS L.",
+            "role": "author"
+          }
+        ],
+        "publisher": "JONATHAN CAPE",
+        "edition": "",
+        "isbn_cd": "9780224029254",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "BOOK",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:52",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "COPYRIGHT LICENSING AGENCY LIMITED, THE",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:52.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757319",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 900,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000899",
+        "rro_work_cd": 900,
+        "work_title": "REGIONAL ETHICS ORGANIZATIONS FOR PROTECTION OF HUMAN RESEAR",
+        "contributors": [
+          {
+            "name": "EMANUEL E.",
+            "role": "author"
+          },
+          {
+            "name": "GRADY C.",
+            "role": "author"
+          },
+          {
+            "name": "WOOD A.",
+            "role": "author"
+          }
+        ],
+        "publisher": "NATURE PUBLISHING",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "Y",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:52",
+        "free_to_copy_ind": "N",
+        "parent_work_id": 124226,
+        "parent_rro_work_cd": 124226,
+        "parent_work_title": "NATURE MEDICINE",
+        "rightsholder": "COPYRIGHT CLEARANCE CENTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:52.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757330",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 911,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000910",
+        "rro_work_cd": 911,
+        "work_title": "KING THE CAT AND THE FIDDLE THE",
+        "contributors": [
+          {
+            "name": "HOPE Christopher",
+            "role": "author"
+          },
+          {
+            "name": "MENUHIN Yehudi",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:53",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "PEARSON HOLDINGS SOUTHERN AFRICA (PTY) LTD",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:53.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757364",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 945,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000944",
+        "rro_work_cd": 945,
+        "work_title": "LEWE IS 'N GRENSHOTEL, DIE",
+        "contributors": [
+          {
+            "name": "AUCAMP Hennie",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:53",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "H.C.L. AUCAMP, NB-UITGEWERS",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:53.000Z"
+        ]
+      }
+    },
+{
+      "_index": "work_dalro",
+      "_type": "work_dalro",
+      "_id": "757366",
+      "_version": 1,
+      "_score": 0,
+      "_source": {
+        "work_id": 947,
+        "company_cd": "DALRO",
+        "ref_cd": "A0000946",
+        "rro_work_cd": 947,
+        "work_title": "LIEDERE VAN LAND EN SEE",
+        "contributors": [
+          {
+            "name": "MÜLLER Petra",
+            "role": "author"
+          }
+        ],
+        "publisher": "",
+        "edition": "",
+        "isbn_cd": "",
+        "issn_cd": "",
+        "pub_date": null,
+        "pub_year": null,
+        "excerpt_ind": "N",
+        "work_type": "JOURNAL/MAGAZINE",
+        "excluded_ind": "N",
+        "status_cd": "NEW",
+        "status_dt": "2015/03/25 16:53:53",
+        "free_to_copy_ind": "N",
+        "parent_work_id": null,
+        "parent_rro_work_cd": null,
+        "parent_work_title": "",
+        "rightsholder": "NB-UITGEWERS, P.H. GRÜTTER",
+        "work_category_cd": "",
+        "cat_desc": "",
+        "perform_cast_size": null,
+        "perform_cast_desc": "",
+        "product_forms": []
+      },
+      "fields": {
+        "status_dt": [
+          "2015-03-25T16:53:53.000Z"
+        ]
+      }
+    }
+  ]
+}
