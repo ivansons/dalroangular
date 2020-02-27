@@ -1,7 +1,12 @@
-
+<h3 class="">Enter the title ISBN of book, journal or magazine to find materials to licenses. <br> Hit Search and you are off!</h3>
 <div>
-    <input type="search" placeholder="Search Books" #search id="search" />
-    <button (click)="OnSearch(search.value)">Search</button>
+<!-- Search form -->
+<form class="form-inline md-form form-sm active-cyan-2 mt-2">
+   <input #search id="search" class="form-control form-control-sm mr-3 w-75" type="text" placeholder="Search"
+     aria-label="Search">
+   <i class="fas fa-search" aria-hidden="true"></i>
+   <button class="btn btn-elegant btn-rounded btn-sm my-0" (click)="OnSearch(search.value)">Search</button>
+ </form>
     
 </div>
 

@@ -14,6 +14,7 @@ import { CartComponent } from './cart/cart.component';
 import { FormComponent } from './form/form.component';
 import { RegistrationComponent } from './registration/registration.component';
 import { ContactComponent } from './contact/contact.component';
+import { SidebarComponent } from './sidebar/sidebar.component';
  
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { ContactComponent } from './contact/contact.component';
     CartComponent,
     FormComponent,
     RegistrationComponent,
-    ContactComponent
+    ContactComponent,
+    SidebarComponent
   ],
   imports: [
     BrowserModule,

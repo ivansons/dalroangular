@@ -1,9 +1,15 @@
 
 <app-search></app-search>
 
+
+<div class="cat container" >
 <h1>Catalogue<span class="badge badge-secondary">Local</span></h1>
+<div class="col col-md-8">
   <div class="list-group" >
     <a href="#"  class="list-group-item list-group-item-action" *ngFor="let item of data.works">
      {{ item._source.work_title }}
     </a>
+  </div>
+</div>
+<app-sidebar class="col col-md-4"></app-sidebar>
   </div>

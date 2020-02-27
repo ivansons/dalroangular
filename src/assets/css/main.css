@@ -97,12 +97,16 @@ a:after {
 }
 
 #headerwrap h1 {
-	margin-top: 150px;
+	margin-top: 51px;
 	color: white;
-	color: #16dbff;
-	text-shadow: 2px 2px 5px #333;
-	font-size: 70px;
-	font-weight: 700;
+	color:
+	#16dbff;
+	text-shadow: 2px 2px 5px
+	#131F25;
+	font-size: 36px;
+	font-weight: 577;
+	padding-left: 19px;
+    padding-bottom: 7px;
 }
 
 #headerwrap h3 {
